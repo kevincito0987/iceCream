@@ -3,7 +3,7 @@
 ¡Bienvenido a **Ice Cream Shop**! 🎉 Una página web moderna y llamativa, diseñada con **HTML y CSS** para promocionar y vender los helados más deliciosos. 🍨✨
 
 ## 📸 Captura de Pantalla
-
+![image-20250228122813795](./storage/img/Layout.png)
 
 
 
@@ -11,11 +11,17 @@
 ## 📜 Tabla de Contenidos
 
 1️⃣ [Introducción](#introducción)
+
 2️⃣ [Características](#características)
+
 3️⃣ [Instalación](#instalación)
+
 4️⃣ [Uso](#uso)
+
 5️⃣ [Ejemplos](#ejemplos)
+
 6️⃣ [Contribuciones](#contribuciones)
+
 7️⃣ [Licencia](#licencia)
 
 ------
@@ -25,7 +31,9 @@
 **Ice Cream Shop** es una **landing page** creada con **HTML y CSS** que ofrece una experiencia visual atractiva y envolvente. Ideal para quienes desean inspirarse en diseño web o usarla como base para su propio proyecto de comercio electrónico.
 
 👨‍💻 **Tecnologías utilizadas:**
+
 ✅ **HTML5** - Estructura del sitio.
+
 ✅ **CSS3** - Estilos y animaciones.
 
 ------
@@ -33,9 +41,13 @@
 ## ✨ Características
 
 ✔️ **Diseño moderno y llamativo** con imágenes impactantes.
+
 ✔️ **100% responsive**, adaptable a móviles y tablets. 📱💻
+
 ✔️ **Animaciones y transiciones suaves** usando solo **CSS**.
+
 ✔️ **Sección de compra rápida** para mejorar la conversión. 🛒
+
 ✔️ **Botón de llamada a la acción** para atraer clientes. 🔥
 
 ------
@@ -104,6 +116,7 @@ Las contribuciones son bienvenidas. ¡Siéntete libre de mejorar el proyecto!
 ### 📌 Pasos para contribuir:
 
 1️⃣ Haz un **fork** del repositorio.
+
 2️⃣ Crea una **nueva rama** con tu mejora:
 
 ```
