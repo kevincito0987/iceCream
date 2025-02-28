@@ -5,6 +5,26 @@
 }
 
 @font-face {
-    font-family:"Example-Bold" ;
-    src: url(../storage/fonts/static/Sora-Bold.ttf);
+    font-family:"Kavoon-Regular" ;
+    src: url(../fonts/Kavoon/Kavoon-Regular.ttf);
+}
+@font-face {
+    font-family:"Inter-SemiBold" ;
+    src: url(../fonts/Inter/static/Inter_18pt-SemiBold.ttf);
+}
+@font-face {
+    font-family:"Seaweed_Script-Regular" ;
+    src: url(../fonts/Seaweed_Script/SeaweedScript-Regular.ttf);
+}
+@font-face {
+    font-family:"Lalezar-Regular" ;
+    src: url(../fonts/Lalezar/Lalezar-Regular.ttf);
+}   
+@font-face {
+    font-family:"Inder-Regular" ;
+    src: url(../fonts/Inder/Inder-Regular.ttf);
+}
+@font-face {
+    font-family:"Inter-Bold" ;
+    src: url(../fonts/Inter/static/Inter_28pt-Bold.ttf);
 }
