@@ -3,6 +3,7 @@
 ¡Bienvenido a **Ice Cream Shop**! 🎉 Una página web moderna y llamativa, diseñada con **HTML y CSS** para promocionar y vender los helados más deliciosos. 🍨✨
 
 ## 📸 Captura de Pantalla
+
 ![image-20250228122813795](./storage/img/Layout.png)
 
 
