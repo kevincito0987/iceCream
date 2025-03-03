@@ -17,7 +17,6 @@ main {
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin: 0 30px 0 30px;
-    
  }
    
 .div1 {
@@ -94,7 +93,7 @@ main {
     grid-row-end: 20;
     width: 1022px;
     height: 922px;
-    margin: 0 20px 0 0;
+    margin: 0 0 0 0px;
     display: flex;
     flex-direction: row;  
  }
@@ -133,11 +132,42 @@ main {
 
 }
  .div3 {
- 
     background-color: #8B9BE6; 
     grid-row-start: 2;
     grid-row-end: 20;
-    width: 943px;
-    height: 827px;
-    margin: 0;
+    width: 813px;
+    height: 922px;
+    margin: 0 0 0 0;
  }
+ .description {
+    display: flex;
+    flex-direction: column;
+    width: 628px;
+    height: 294px;
+    justify-content: center;
+    align-items: center;
+    margin: 197px 0 246px 10px;
+    line-height: 1.6;
+ }
+ .description h2 {
+    font-size: 69.56px;
+    font-family: "Inter-Bold";
+    color: var(--color-1);
+    width: 600px;
+    height: 84px;
+ }
+ .description h6 {
+    font-size: 32px;
+    font-family: "Lalezar-Regular";
+    color: var(--color-1);
+    width: 199px;
+    height: 50px;
+ }
+ .description p {
+    font-size: 24px;
+    font-family: "Inder-Regular";
+    color: var(--color-1);
+    width: 608px;
+    height: 150px;
+    line-height: 1;
+}
