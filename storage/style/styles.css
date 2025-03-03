@@ -1,4 +1,4 @@
-*{
+@import url(./variable.css);*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,7 +7,6 @@
 /*****************Main Container*******************/
 .parent {
     display: grid; 
- 
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 0px;
@@ -15,7 +14,6 @@
  }
    
  .div1 {
- 
     background-color: #E7DADD; 
     grid-row-start: 1;
     grid-column-start: 1;
@@ -32,6 +30,19 @@
         ". . ."
         ". . ."
         ". . ."; 
+ }
+ .div1 p {
+    font-size: 60px;
+    font-family: "Kavoon-Regular";
+    color: var(--color-1);
+ }
+ .div1 nav {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    justify-content: center;
+    width: 711px;
+    height: 34px;
  }
  .div2 {
  
